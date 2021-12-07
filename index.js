@@ -9,9 +9,7 @@ let interval;
 let timeout;
 
 restart.addEventListener('click', () => {
-        count = 0
-        
-        
+        count = 0    
 })
 
 
