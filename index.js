@@ -10,7 +10,7 @@ let timeout;
 
 restart.addEventListener('click', () => {
         count = 0
-        sum.innerHTML = '0'
+        
         
 })
 

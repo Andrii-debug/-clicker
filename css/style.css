@@ -39,7 +39,7 @@ body {
     cursor: pointer;
 }
 
-.button:active {   
+.button:active {
     transform: translateY(4px);
 }
 
